@@ -1,0 +1,4 @@
+border: 2px solid;
+
+border-image-source: linear-gradient(90deg, #C02425 0%, #F0CB35 100%);
+
